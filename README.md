@@ -13,7 +13,7 @@ Hey, I'm Mohammad Hosein, computer student with a strong passion for coding and 
 - [Fund Management Project](https://github.com/Mstaheri/Fund-Management)
 - [Accounting Project](https://github.com/Mstaheri/Proje-Hesabdari)
 
-## 🤝 Let's Connect!
+## 📞 Connect Me
 - 📧 Email: mstaheri.011@gmail.com
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mohammad-hosein-salman-taheri-b222b628a/)
 - 📱 Telegram: [Telegram Profile](https://t.me/Mstaheri_01)
