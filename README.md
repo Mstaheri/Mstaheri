@@ -10,7 +10,7 @@ Hey, I'm Mohammad Hosein, computer student with a strong passion for coding and 
 - Skilled in managing SQL Server Databases 📊
 
 ## 🌟 My Projects
-- [Deposit-Box](https://github.com/Mstaheri/Deposit-Box)
+- [Deposit-Box-Project](https://github.com/Mstaheri/Deposit-Box)
 - [Accounting Project](https://github.com/Mstaheri/Proje-Hesabdari)
 
 ## 📞 Connect Me
